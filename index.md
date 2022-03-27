@@ -1,10 +1,12 @@
-## Welcome to Qucheng Peng's Home Pages
+# Welcome to Qucheng Peng's Home Pages
 
-Hi, there! I am Qucheng Peng, a second-year master's student at Purdue School of Engineering and Technology, [Indiana University-Purdue University Indianapolis](https://github.com/davidpengiupui/davidpengiupui.github.io/edit/main/index.md).
+Hi, there! I am Qucheng Peng, a second-year master's student at Purdue School of Engineering and Technology, [Indiana University-Purdue University Indianapolis](https://www.iupui.edu). I will graduate in Spring 2020.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research
 
-### Markdown
+My research interests are **Computer Vision** and **Deep Learning**. Now I am working with [Dr. Zhengming Ding](https://allanding.github.io) on **Domain Adaptation for Visual Recognition**.
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
