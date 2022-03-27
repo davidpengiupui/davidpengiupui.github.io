@@ -23,7 +23,7 @@ My research interests are **Computer Vision** and **Deep Learning**. Now I am wo
 3. **Multi-Source and Source-Private Cross-Domain Learning for Visual Recognition**: master's thesis at Indiana Univerisity-Purdue University Indianapolis. This work was done under the supervision of Dr. Zhengming Ding.
 
 ## Honors
-2019-2020 New York Univerisity Tandon School of Engineering Academic Scholarships $7000 for one year
-2020-2022 Purdue School of Engineering and Technology Thesis Scholarships $10000 per year
-2022-2024 New Jersey Institute of Technology Provost Doctoral Fellowships $27000 per year
-2022-2023 University of Central Florida ORCGS Doctoral Fellowship $25000 for one year
+2019-2020 New York Univerisity Tandon School of Engineering Academic Scholarships $7000 for one year;
+2020-2022 Purdue School of Engineering and Technology Thesis Scholarships $10000 per year;
+2022-2024 New Jersey Institute of Technology Provost Doctoral Fellowships $27000 per year;
+2022-2023 University of Central Florida ORCGS Doctoral Fellowship $25000 for one year.
