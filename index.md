@@ -1,6 +1,6 @@
 ## Welcome to Qucheng Peng's Home Pages
 
-You can use the [editor on GitHub](https://github.com/davidpengiupui/davidpengiupui.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, there! I am Qucheng Peng, a second-year master's student at Purdue School of Engineering and Technology, [Indiana University-Purdue University Indianapolis](https://github.com/davidpengiupui/davidpengiupui.github.io/edit/main/index.md).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
