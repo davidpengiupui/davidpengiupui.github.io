@@ -22,6 +22,9 @@ My research interests are **Computer Vision** and **Deep Learning**. Now I am wo
 2. **Enhancing Multi-Source Consistency for Cross Domain Learning**: work at Indiana Univerisity-Purdue University Indianapolis. This work was done under the supervision of Dr. Zhengming Ding.
 3. **Multi-Source and Source-Private Cross-Domain Learning for Visual Recognition**: master's thesis at Indiana Univerisity-Purdue University Indianapolis. This work was done under the supervision of Dr. Zhengming Ding.
 
+## News
+04/2022 I passed my thesis defense at Purdue School of Engineering and Technology, IUPUI.
+
 ## Honors
 2019-2020 New York Univerisity Tandon School of Engineering Academic Scholarships $7000 for one year;
 
