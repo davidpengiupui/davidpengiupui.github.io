@@ -4,7 +4,7 @@ Hi, there! I am Qucheng Peng, a first-year Ph.D. student at the Department of Co
 
 ## Research
 
-My research interests are **Computer Vision** and **Deep Learning**. Now I am working with [Dr. Zhengming Ding](https://allanding.github.io) on **Domain Adaptation for Visual Recognition**.
+My research interests are **Computer Vision** and **Deep Learning**. Now I am working on **Pose Estimation** with [Dr. Chen Chen](https://www.crcv.ucf.edu/chenchen/). Previously, I worked with [Dr. Zhengming Ding](https://allanding.github.io) on **Domain Adaptation for Visual Recognition**.
 
 ## Education
 
@@ -14,7 +14,9 @@ My research interests are **Computer Vision** and **Deep Learning**. Now I am wo
 
 09/2019-07/2020       master's student at Tandon School of Engineering, [New York University](http://www.nyu.edu);
 
-09/2020-now           master's student at at Purdue School of Engineering and Technology, [Indiana University-Purdue University Indianapolis](https://www.iupui.edu).
+09/2020-07/2022           master's student at Purdue School of Engineering and Technology, [Indiana University-Purdue University Indianapolis](https://www.iupui.edu);
+
+08/2022-now           Ph.D. student at the Department of Computer Science, [University of Central Florida](https://www.ucf.edu).
 
 
 ## Work
