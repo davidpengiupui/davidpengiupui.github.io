@@ -22,7 +22,7 @@ My research interests are **Computer Vision** and **Deep Learning**. Now I am wo
 ## Work
 1. [NewBottleSum](https://github.com/davidpqc1231/NewBottleSum): course project at New York University.
 2. **Enhancing Multi-Source Consistency for Cross Domain Learning**: work at Indiana Univerisity-Purdue University Indianapolis. This work was done under the supervision of Dr. Zhengming Ding.
-3. **Multi-Source and Source-Private Cross-Domain Learning for Visual Recognition**: master's thesis at Indiana Univerisity-Purdue University Indianapolis. This work was done under the supervision of Dr. Zhengming Ding.
+3. [Multi-Source and Source-Private Cross-Domain Learning for Visual Recognition](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhdl.handle.net%2F1805%2F29176&amp;data=05%7C01%7Cqupeng%40iu.edu%7Ce2a0ab1776574ce27afe08da3feb8f41%7C1113be34aed14d00ab4bcdd02510be91%7C0%7C0%7C637892578192577680%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=xI6bbyxQIB1aKxEKjyV%2BsLWqPrOECcelTt0p%2BLwYYYQ%3D&amp;reserved=0): master's thesis at Indiana Univerisity-Purdue University Indianapolis. This work was done under the supervision of Dr. Zhengming Ding.
 
 ## News
 04/2022 I passed my thesis defense at Purdue School of Engineering and Technology, IUPUI.
